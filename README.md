@@ -7,6 +7,7 @@ This project is a starting point for a Flutter application for beginner.
 
 A few resources to get you started if this is your first Flutter project:
 
+- [Flutter Documentation](https://flutter.dev/)
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
@@ -29,4 +30,6 @@ Please follow the following steps to build your flutter app for IOS using Xcode:
 #### NOTE: Follow step 1 and 2 if you face something issues related to package while building app from Xcode.
 
 ### Android
-#### coming soon
+
+1. Connect your devices in the laptop and Run flutter run
+2. If you wish to run from android studio or not done setup with android studio. Please follow this [link](https://docs.flutter.dev/get-started/install)
