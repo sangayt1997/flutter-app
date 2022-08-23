@@ -37,6 +37,7 @@ dependencies:
 
   # Added By Developers
   flutter_riverpod: ^1.0.4 # For State Management
+  reactive_forms: ^14.1.0 # Reactive Form
 
 dev_dependencies:
   flutter_test:
